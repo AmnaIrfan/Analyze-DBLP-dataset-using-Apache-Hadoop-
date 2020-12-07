@@ -1,5 +1,4 @@
-# Akka/HTTP-based Chord Simulator
-##### Team Mates: Amedeo Baragiola (Leader), Amna Irfan, Matteo Pelosi, Georgia Fiscaletti 
+# Analyze DBLP dataset using Apache Hadoop Map Reducr
 
 #### Introduction:
 
